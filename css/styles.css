@@ -244,12 +244,13 @@ section h2 {
 } */
 
 h1 {
-    font-weight: 700;
+  font-size: 48px;  
+  font-weight: 700;
   }
 
 h2 {
     color: #0f0f0f;
-    font-size: 28px;
+    font-size: 32px;
   }
 
 article p {
